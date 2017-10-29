@@ -5,11 +5,13 @@ subtitle: Free and Printable Christmas Snowflakes Clipart
 ---
 {{ page.title }}
 ================
-## Christmas Snowflakes Clipart 1
-![Christmas Snowflakes Clipart 1](https://hoanghabelle.github.io/images/christmas-snowflakes-clipart%20(1).jpg "Christmas Snowflakes Clipart 1")
+|Christmas Snowflakes Clipart 1|Christmas Snowflakes Clipart 2|
+|:---:|:---:|
+|![Christmas Snowflakes Clipart 1](https://hoanghabelle.github.io/images/christmas-snowflakes-clipart%20(1).jpg "Christmas Snowflakes Clipart 1")|![Christmas Snowflakes Clipart 2](https://hoanghabelle.github.io/images/christmas-snowflakes-clipart%20(2).jpg "Christmas Snowflakes Clipart 2")|
 
-## Christmas Snowflakes Clipart 2
-![Christmas Snowflakes Clipart 2](https://hoanghabelle.github.io/images/christmas-snowflakes-clipart%20(2).jpg "Christmas Snowflakes Clipart 2")
+
+
+
 
 ## Christmas Snowflakes Clipart 3
 ![Christmas Snowflakes Clipart 3](https://hoanghabelle.github.io/images/christmas-snowflakes-clipart%20(3).jpg "Christmas Snowflakes Clipart 3")
