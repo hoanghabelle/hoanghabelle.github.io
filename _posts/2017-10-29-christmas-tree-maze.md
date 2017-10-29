@@ -8,6 +8,11 @@ categoties: [maze]
 ================
 > A Christmas tree is a decorated tree, usually an evergreen conifer such as spruce, pine, or fir or an artificial tree of similar appearance, associated with the celebration of Christmas. The modern Christmas tree was developed in early modern Germany (where it is today called Weihnachtsbaum or Christbaum) (Source: wikipedia)
 
+You can download and print these free resource by following instructions bellow:
+* Right click on the image
+* Choose Save Image As... then locate where to Save
+* Click Save to complete!
+ 
 ## christmas tree maze 1
 ![christmas tree maze 1](https://hoanghabelle.github.io/images/christmas-tree-maze%20(1).jpg "christmas tree maze 1")
 
