@@ -48,9 +48,3 @@ categoties: [maze, easy]
 ## printable mazes for 5 year olds 12
 ![printable mazes for 5 year olds 12](https://hoanghabelle.github.io/images/printable-mazes-for-5-year-olds%20(12).jpg "printable mazes for 5 year olds 12")
 
-## printable mazes for 5 year olds 13
-![printable mazes for 5 year olds 13](https://hoanghabelle.github.io/images/printable-mazes-for-5-year-olds%20(13).jpg "printable mazes for 5 year olds 13")
-
-## printable mazes for 5 year olds 14
-![printable mazes for 5 year olds 14](https://hoanghabelle.github.io/images/printable-mazes-for-5-year-olds%20(14).jpg "printable mazes for 5 year olds 14")
-
