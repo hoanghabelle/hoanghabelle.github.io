@@ -4,9 +4,8 @@ title: Nightmare before Christmas Jack and Sally coloring pages part 2
 subtitle: Free and Printable Nightmare before Christmas Jack and Sally coloring pages part 2
 categoties: [Coloring]
 ---
-{{ page.title }}
-================
-> The Nightmare Before Christmas enchants us with its whimsy and magic, but it also gives us really intense couple goals. Jack and Sally are the perfect couple, we’re pretty sure. (Source: wikipedia)
+
+> The Nightmare Before Christmas enchants us with its whimsy and magic, but it also gives us really intense couple goals. Jack and Sally are the perfect couple, weâ€™re pretty sure. (Source: wikipedia)
 
 ## Nightmare before Christmas Jack and Sally coloring pages 11
 ![Nightmare before Christmas Jack and Sally coloring pages 11](https://hoanghabelle.github.io/images/Nightmare-before-Christmas-Jack-and-Sally-coloring-pages%20(11).jpg "Nightmare before Christmas Jack and Sally coloring pages 11")
