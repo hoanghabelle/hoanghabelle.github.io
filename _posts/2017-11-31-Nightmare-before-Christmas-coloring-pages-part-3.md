@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Nightmare before Christmas coloring pages part 3
 subtitle: Free and Printable Nightmare before Christmas coloring pages part 3
