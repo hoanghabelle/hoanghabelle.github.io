@@ -6,7 +6,7 @@ categoties: [Coloring]
 ---
 {{ page.title }}
 ================
-> Minnie Mouse is a funny animal cartoon character created by Ub Iwerks and Walt Disney. She and Mickey Mouse were first drawn by Iwerks in 1928. The comic strip story "The Gleam" (published January 19â€“May 2, 1942) by Merrill De Maris and Floyd Gottfredson first gave her full name as Minerva Mouse, although this is seldom used. (Source: wikipedia)
+> Minnie Mouse is a funny animal cartoon character created by Ub Iwerks and Walt Disney. She and Mickey Mouse were first drawn by Iwerks in 1928. The comic strip story The Gleam (published January 19–May 2, 1942) by Merrill De Maris and Floyd Gottfredson first gave her full name as Minerva Mouse, although this is seldom used. (Source: wikipedia)
 
 ## Minnie mouse Christmas coloring pages 1
 ![Minnie mouse Christmas coloring pages 1](https://hoanghabelle.github.io/images/Minnie-mouse-Christmas-coloring-pages%20(1).jpg "Minnie mouse Christmas coloring pages 1")
@@ -39,6 +39,6 @@ categoties: [Coloring]
 ## Minnie mouse Christmas coloring pages 9
 ![Minnie mouse Christmas coloring pages 9](https://hoanghabelle.github.io/images/Minnie-mouse-Christmas-coloring-pages%20(9).jpg "Minnie mouse Christmas coloring pages 9")
 
-## Minnie mouse Christmas coloring pages
+## Minnie mouse Christmas coloring pages 10
 ![Minnie mouse Christmas coloring pages 10](https://hoanghabelle.github.io/images/Minnie-mouse-Christmas-coloring-pages%20(10).jpg "Minnie mouse Christmas coloring pages 10")
 
