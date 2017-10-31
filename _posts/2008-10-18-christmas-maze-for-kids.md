@@ -60,4 +60,4 @@ subtitle: Free and Printable Christmas maze for kids
 ## Christmas maze for kids 17
 ![Christmas maze for kids 17](https://hoanghabelle.github.io/images/christmas-maze-for-kids%20(17).jpg "Christmas maze for kids 17")
 
-<a href="http://www.wvchoops.com">WVChoops.com Web Directory</a>
+<a href="http://www.wvchoops.com">WVChoops.com Web Directory</a><a href="http://topofblogs.com"><img src="http://stats.topofblogs.com/send/213824" alt="Top  blogs" border="0" /></a>
