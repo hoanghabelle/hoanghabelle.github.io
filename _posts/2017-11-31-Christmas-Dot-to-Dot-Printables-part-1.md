@@ -9,7 +9,7 @@ categoties: [Dot to dot]
 > This page is about [Christmas Dot to Dot Printables](https://hoanghabelle.github.io/) Dot To Dot is educational and funny game. Preschool game to learn numbers, alphabet and much more. Includes many and varied images classified into twelve categories: Animals, Adventures, Sports, Educational, Seasons and Celebrations, Fantasy, History, Nature, Christmas, People and Jobs, Transportation and Miscellaneous. Have fun and learn with our free connect the dots games. Available with sounds in different languages. (Source: wikipedia)
 
 ## Christmas Dot to Dot Printables 1
-![Christmas Dot to Dot Printables 1](https://hoanghabelle.github.io/images/Christmas-Dot-to-Dot-Printables%20(1).jpg "Christmas Dot to Dot Printables 1")
+![Christmas Dot to Dot Printables 1](https://hoanghabelle.github.io/images/christmas-dot-to-dot-printables%20(1).jpg "Christmas Dot to Dot Printables 1")
 
 ## Christmas Dot to Dot Printables 2
 ![Christmas Dot to Dot Printables 2](https://hoanghabelle.github.io/images/Christmas-Dot-to-Dot-Printables%20(2).jpg "Christmas Dot to Dot Printables 2")
