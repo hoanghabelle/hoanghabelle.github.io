@@ -39,6 +39,3 @@ categoties: [Coloring]
 ## Christmas Present Color Page 69
 ![Christmas Present Color Page 69](https://hoanghabelle.github.io/images/Christmas-Present-Color-Page%20(69).jpg "Christmas Present Color Page 69")
 
-## Christmas Present Color Page 70
-![Christmas Present Color Page 70](https://hoanghabelle.github.io/images/Christmas-Present-Color-Page%20(70).jpg "Christmas Present Color Page 70")
-
