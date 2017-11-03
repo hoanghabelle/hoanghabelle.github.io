@@ -36,14 +36,3 @@ categoties: [Coloring]
 ## Oogie Boogie Coloring Page 17
 ![Oogie Boogie Coloring Page 17](https://hoanghabelle.github.io/img/Oogie-Boogie-Coloring-Page%20(17).jpg "Oogie Boogie Coloring Page 17")
 
-## Oogie Boogie Coloring Page 18
-![Oogie Boogie Coloring Page 18](https://hoanghabelle.github.io/img/Oogie-Boogie-Coloring-Page%20(18).jpg "Oogie Boogie Coloring Page 18")
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-8i+1w-dq+e9+ft" data-ad-client="ca-pub-6753140515841889" data-ad-slot="6190446671"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
-
-## Oogie Boogie Coloring Page 19
-![Oogie Boogie Coloring Page 19](https://hoanghabelle.github.io/img/Oogie-Boogie-Coloring-Page%20(19).jpg "Oogie Boogie Coloring Page 19")
-
-## Oogie Boogie Coloring Page 20
-![Oogie Boogie Coloring Page 20](https://hoanghabelle.github.io/img/Oogie-Boogie-Coloring-Page%20(20).jpg "Oogie Boogie Coloring Page 20")
-
