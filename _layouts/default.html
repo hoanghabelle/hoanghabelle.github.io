@@ -33,14 +33,6 @@ var WRInitTime=(new Date()).getTime();
     <a class="extra" href="/">home</a>
   </div>
 
-   <ul class="fact-list smaller">
-  {% for fact in site.quick_facts %}
-
-    <li{% if forloop.last %} class="last"{% endif %}>{{ fact.output }}</li>
-
-  {% endfor %}
-   </ul>
-   
   {{ content }}
    
   <div class="footer">
