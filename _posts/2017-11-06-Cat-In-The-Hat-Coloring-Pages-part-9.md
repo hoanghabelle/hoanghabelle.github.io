@@ -50,15 +50,3 @@ categoties: [Cat Coloring Pages]
 
 ## Cat In The Hat Coloring Pages 87
 ![Cat In The Hat Coloring Pages 87](https://hoanghabelle.github.io/img/Cat-In-The-Hat-Coloring-Pages%20(87).jpg "Cat In The Hat Coloring Pages 87")
-
-## Cat In The Hat Coloring Pages 88
-![Cat In The Hat Coloring Pages 88](https://hoanghabelle.github.io/img/Cat-In-The-Hat-Coloring-Pages%20(88).jpg "Cat In The Hat Coloring Pages 88")
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-8i+1w-dq+e9+ft" data-ad-client="ca-pub-6753140515841889" data-ad-slot="6190446671"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
-
-## Cat In The Hat Coloring Pages 89
-![Cat In The Hat Coloring Pages 89](https://hoanghabelle.github.io/img/Cat-In-The-Hat-Coloring-Pages%20(89).jpg "Cat In The Hat Coloring Pages 89")
-
-## Cat In The Hat Coloring Pages 90
-![Cat In The Hat Coloring Pages 90](https://hoanghabelle.github.io/img/Cat-In-The-Hat-Coloring-Pages%20(90).jpg "Cat In The Hat Coloring Pages 90")
-
