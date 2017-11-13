@@ -6,7 +6,7 @@ categoties: [Doodle Coloring Pages]
 ---
 {{ page.title }}
 ================
-> This page is about [Christmas Doodle Coloring Pages](https://hoanghabelle.github.io/). A doodle is a drawing made while a person's attention is otherwise occupied. Doodles are simple drawings that can have concrete representational meaning or may just be composed of random and abstract lines, generally without ever lifting the drawing device from the paper, in which case it is usually called a 'scribble'. Doodling and scribbling are most often associated with young children and toddlers, because their lack of hand–eye coordination and lower mental development often make it very difficult for any young child to keep their coloring attempts within the line art of the subject. Despite this, it is not uncommon to see such behaviour with adults, in which case it is generally done jovially, out of boredom. Typical examples of doodling are found in school notebooks, often in the margins, drawn by students daydreaming or losing interest during class. Other common examples of doodling are produced during long telephone conversations if a pen and paper are available. Source: https://wikipedia.org
+> This page is about [Christmas Doodle Coloring Pages](https://hoanghabelle.github.io/). A doodle is a drawing made while a person's attention is otherwise occupied. Doodles are simple drawings that can have concrete representational meaning or may just be composed of random and abstract lines, generally without ever lifting the drawing device from the paper, in which case it is usually called a 'scribble'. Doodling and scribbling are most often associated with young children and toddlers, because their lack of handâ€“eye coordination and lower mental development often make it very difficult for any young child to keep their coloring attempts within the line art of the subject. Despite this, it is not uncommon to see such behaviour with adults, in which case it is generally done jovially, out of boredom. Typical examples of doodling are found in school notebooks, often in the margins, drawn by students daydreaming or losing interest during class. Other common examples of doodling are produced during long telephone conversations if a pen and paper are available. Source: https://wikipedia.org
 
 **In the series of Christmas Doodle Coloring Pages:**
 
@@ -24,7 +24,7 @@ categoties: [Doodle Coloring Pages]
 ## Christmas Doodle Coloring Pages No. 3
 ![Christmas Doodle Coloring Pages 3](https://hoanghabelle.github.io/img1/Christmas-Doodle-Coloring-Pages%20(3).jpg "Christmas Doodle Coloring Pages 3")
 
-## Christmas Doodle Coloring Pages No. 4
+## Christmas Doodle Coloring Pages No.4
 ![Christmas Doodle Coloring Pages 4](https://hoanghabelle.github.io/img1/Christmas-Doodle-Coloring-Pages%20(4).jpg "Christmas Doodle Coloring Pages 4")
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Texxtonly --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-6753140515841889" data-ad-slot="3207852233"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({}); </script>
