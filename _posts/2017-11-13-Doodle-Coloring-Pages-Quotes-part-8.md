@@ -24,7 +24,7 @@ categoties: [Doodle Coloring Pages]
 ## Doodle Coloring Pages Quotes No. 72
 ![Doodle Coloring Pages Quotes 72](https://hoanghabelle.github.io/img1/Doodle-Coloring-Pages-Quotes%20(72).jpg "Doodle Coloring Pages Quotes 72")
 
-## Doodle Coloring Pages Quotes No. 73
+## Doodle Coloring Pages Quotes No.73
 ![Doodle Coloring Pages Quotes 73](https://hoanghabelle.github.io/img1/Doodle-Coloring-Pages-Quotes%20(73).jpg "Doodle Coloring Pages Quotes 73")
 
 ## Doodle Coloring Pages Quotes No. 74
