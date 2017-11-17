@@ -6,7 +6,7 @@ categoties: [Coloring Pages]
 ---
 {{ page.title }}
 ================
-> This page is about [Disney Easter Coloring Pages](https://hoanghabelle.github.io/). Considering a visit to Disneyland for Easter? This post will provide info and tips for Easter (and spring) in the parks concerning special entertainment, crowds, and more. It goes with out saying that you can have a good time any day of the year at Disneyland and Disney California, but during the Easter season, you’re guaranteed an egg-stra good time! That’s a bit of an eggs-ageration, but I couldn’t pass up the eggs-travagant pun there. Okay, sorry, I’ll stop.__Souce: http://www.disneytouristblog.com/__
+> This page is about [Disney Easter Coloring Pages](https://hoanghabelle.github.io/). Considering a visit to Disneyland for Easter? This post will provide info and tips for Easter (and spring) in the parks concerning special entertainment, crowds, and more. It goes with out saying that you can have a good time any day of the year at Disneyland and Disney California, but during the Easter season, youâ€™re guaranteed an egg-stra good time! Thatâ€™s a bit of an eggs-ageration, but I couldnâ€™t pass up the eggs-travagant pun there. Okay, sorry, Iâ€™ll stop.__Souce: http://www.disneytouristblog.com/__
 
 **In the series of Disney Easter Coloring Pages:**
 
@@ -26,7 +26,7 @@ categoties: [Coloring Pages]
 ## Disney Easter Coloring Pages No. 13
 ![Disney Easter Coloring Pages 13](https://hoanghabelle.github.io/img2/Disney-Easter-Coloring-Pages%20(13).jpg "Disney Easter Coloring Pages 13")
 
-## Disney Easter Coloring Pages No. 14
+## Disney Easter Coloring Pages No.14
 ![Disney Easter Coloring Pages 14](https://hoanghabelle.github.io/img2/Disney-Easter-Coloring-Pages%20(14).jpg "Disney Easter Coloring Pages 14")
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Texxtonly --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-6753140515841889" data-ad-slot="3207852233"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({}); </script>
