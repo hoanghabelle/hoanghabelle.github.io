@@ -6,7 +6,7 @@ categoties: [Coloring Pages]
 ---
 {{ page.title }}
 ================
-> This page is about [Disney Easter Coloring Pages](https://hoanghabelle.github.io/). Considering a visit to Disneyland for Easter? This post will provide info and tips for Easter (and spring) in the parks concerning special entertainment, crowds, and more. It goes with out saying that you can have a good time any day of the year at Disneyland and Disney California, but during the Easter season, you’re guaranteed an egg-stra good time! That’s a bit of an eggs-ageration, but I couldn’t pass up the eggs-travagant pun there. Okay, sorry, I’ll stop.__Souce: http://www.disneytouristblog.com/__
+> This page is about [Disney Easter Coloring Pages](https://hoanghabelle.github.io/). Considering a visit to Disneyland for Easter? This post will provide info and tips for Easter (and spring) in the parks concerning special entertainment, crowds, and more. It goes with out saying that you can have a good time any day of the year at Disneyland and Disney California, but during the Easter season, youâ€™re guaranteed an egg-stra good time! Thatâ€™s a bit of an eggs-ageration, but I couldnâ€™t pass up the eggs-travagant pun there. Okay, sorry, Iâ€™ll stop.__Souce: http://www.disneytouristblog.com/__
 
 **In the series of Disney Easter Coloring Pages:**
 
@@ -34,7 +34,7 @@ categoties: [Coloring Pages]
 ## Disney Easter Coloring Pages No. 65
 ![Disney Easter Coloring Pages 65](https://hoanghabelle.github.io/img2/Disney-Easter-Coloring-Pages%20(65).jpg "Disney Easter Coloring Pages 65")
 
-## Disney Easter Coloring Pages No. 66
+## Disney Easter Coloring Pages No.66
 ![Disney Easter Coloring Pages 66](https://hoanghabelle.github.io/img2/Disney-Easter-Coloring-Pages%20(66).jpg "Disney Easter Coloring Pages 66")
 
 ## Disney Easter Coloring Pages No. 67
